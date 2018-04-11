@@ -1,5 +1,3 @@
 welcome to git
 github
 gitlab
-
-thankyou
